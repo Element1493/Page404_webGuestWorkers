@@ -26,6 +26,7 @@
 
 ## Спасибо
 ![Студия Атум = { Сайты, Дизайн, SEO, Реклама }](https://a-tum.ru/inc/img/logo/logo-200w.png)
+
 Спасибо [Студии Атум](https://a-tum.ru/) за предоставленную страницу под демо.
 ## Источник
  - [https://prowebber.ru/our/6181-rip-stranicy-404-sayta-proteysinfo.html](https://prowebber.ru/our/6181-rip-stranicy-404-sayta-proteysinfo.html)
