@@ -19,4 +19,4 @@
 музыки, не смог реализовать автоматический запуск музыки при открытие страницы.
 
 ## Автор оригинальной страницы:
- - [https://proteys.info](https://proteys.info) [[@Protey4ik](https://t.me/Protey4ik)]
+ - [https://protey.info](https://protey.info) [[@Protey4ik](https://t.me/Protey4ik)]
